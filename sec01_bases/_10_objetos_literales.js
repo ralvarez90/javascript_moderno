@@ -3,8 +3,6 @@
  * 
  * Son objetos en forma de pares clave-valor similares a los
  * diccionarios en python.
- * 
- * 
  */
 (() => {
     'use strict';

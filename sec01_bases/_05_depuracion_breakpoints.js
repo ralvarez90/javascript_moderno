@@ -12,5 +12,8 @@
         e = 14;
 
     const items = { a, b, c, d, e }
+    console.log(items);
+
     c = 'Hello Again';
+    console.log(c);
 })();
